@@ -34,8 +34,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Status',
-      url: 'https://status.nuyoah-l.ml/'
+      text: 'NuyoaH-L',
+      url: 'https://www.nuyoah-l.ml/'
     },
     {
       text: 'GitHub',
@@ -43,7 +43,7 @@ window.Config = {
     },
     {
       text: 'More',
-      url: 'https://stats.uptimerobot.com/qpkPzCOMZv'
+      url: 'https://stats.uptimerobot.com/JK9V3h8jwr'
     }
   ]
 };
