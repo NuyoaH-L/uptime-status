@@ -34,7 +34,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'NuyoaH-L',
+      text: 'Index',
       url: 'https://www.nuyoah-l.ml/'
     },
     {
