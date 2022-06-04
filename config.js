@@ -34,7 +34,7 @@ window.Config = {
   Navi: [
     {
       text: 'Index',
-      url: 'https://www.nuyoah-l.ml/'
+      url: 'https://www.nuyoah-l.ga/'
     },
     {
       text: 'GitHub',
