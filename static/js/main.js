@@ -7837,9 +7837,9 @@
 							text: "UptimeRobot"
 						}), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"]
 					}), Object(c.jsxs)("p", {
-						children: ["\xa9 2020 ", Object(c.jsx)(f, {
-							to: "https://status.nuyoah-l.ml//",
-							text: "STATUS.NUYOAH-L.ML"
+						children: ["\xa9 2020-2022 ", Object(c.jsx)(f, {
+							to: "https://status.nuyoah-l.ga/",
+							text: "STATUS.NUYOAH-L.GA"
 						})]
 					})]
 				})
